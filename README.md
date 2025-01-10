@@ -1,2 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azorkai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azorkai&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azorkai&layout=compact)
