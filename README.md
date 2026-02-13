@@ -1,7 +1,7 @@
 <div align="center">
 
 # Emirhan Güven
-### Senior Full Stack Developer | .NET 8 & React Ecosystems
+### Full Stack Developer | .NET 8 & React Ecosystems
 
 [Website](https://eguven.dev/) • [LinkedIn](https://www.linkedin.com/in/eguvendev/) • [Contact](mailto:contact@eguven.dev)
 
