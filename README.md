@@ -58,8 +58,8 @@ Although the source codes are proprietary (SaaS products), here is an overview o
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azorkai&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azorkai&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azorkai&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azorkai&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages" />
 </div>
 
 <div align="center">
