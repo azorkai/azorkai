@@ -1,2 +1,1 @@
-**Contact:**
-www.lovisoft.com
+www.eguven.dev
