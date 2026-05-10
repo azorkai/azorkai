@@ -29,18 +29,6 @@ Currently architecting comprehensive ecosystems that bridge Cloud Backends with 
 - **Resilience:** "Late Binding" API abstraction layer to handle volatile third-party endpoints with smart Rate Limiting algorithms (99.9% service continuity).
 - **Stack:** .NET 8, C# WPF, Web API, OpenAI API, PostgreSQL.
 
-### [NerioPanel](https://neriopanel.com)
-*Multi-Tenant SaaS Platform*
-
-- **Multi-Tenancy:** **White-Label Architecture** allowing resellers to host branded panels via custom domains using a Shared Database approach with strict Row-Level Security.
-- **Infra:** Custom DNS orchestration layer using **PowerDNS & Nginx** for automatic SSL provisioning and dynamic routing.
-- **Frontend:** Dynamic React engine that injects tenant-specific branding (Assets, CSS, Configs) at runtime.
-- **Stack:** .NET 8, React.js, PowerDNS, Nginx, Docker.
-
-### Automation Kernels (High-Concurrency)
-- **Evelynn Agent:** Multi-threaded automation kernel using **C# TPL & Async/Await** capable of managing 20+ concurrent sessions with optimized memory allocation.
-- **Heuristics:** Algorithms simulating organic user behavior to bypass automated detection systems.
-
 ---
 
 ## Technology Stack
