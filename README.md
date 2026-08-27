@@ -2,7 +2,7 @@
 
 # Emirhan Güven
 
-**Full Stack Developer — .NET 8 · React / Next.js · PostgreSQL**
+**Full Stack Developer** · .NET 8 · React / Next.js · PostgreSQL
 
 [eguven.dev](https://eguven.dev) · [LinkedIn](https://www.linkedin.com/in/eguvendev/) · [contact@eguven.dev](mailto:contact@eguven.dev)
 
@@ -10,7 +10,7 @@
 
 ---
 
-I build and run production SaaS on my own infrastructure — backend, frontend, database and
+I build and run production SaaS on my own infrastructure: backend, frontend, database and
 deployment. Most of my work is a single operator carrying a system end to end: designing the
 schema, writing the API, shipping the UI, and keeping it alive on a server I administer myself.
 
@@ -21,7 +21,9 @@ have to stay fast under real load.
 
 ## Selected work
 
-### CRMSolid — [crmsolid.com](https://crmsolid.com)
+### CRMSolid
+
+[crmsolid.com](https://crmsolid.com)
 
 Omnichannel CRM and outreach platform. Sole developer.
 
@@ -32,7 +34,7 @@ and a **.NET 9 / Photino** desktop agent. Deployed from GitHub Actions with test
 A few parts I'd point at in an interview:
 
 - **A 1.79M-row business catalogue built with DuckDB over Overture Maps parquet on S3.**
-  Querying the remote parquet directly did not stream — 2.5 GB of RAM and zero rows after
+  Querying the remote parquet directly did not stream: 2.5 GB of RAM and zero rows after
   fifteen minutes. Splitting it into a country download joined province by province brought the
   same query from **277 seconds to 15 milliseconds**. Along the way: Overture ships 109 province
   rows for Türkiye rather than 81, and real company names contain lone surrogates that abort an
@@ -43,11 +45,13 @@ A few parts I'd point at in an interview:
   outreach safety, email bounce detection, and agent routing.
 - Payments and billing through LemonSqueezy and WeePay; integrations for ikas, WordPress and Zapier.
 
-It is a modular monolith, not microservices — one deployable API with a few separate services
-around it. For a single maintainer that was the cheaper correct answer, and I can explain where
+It is a modular monolith, not microservices. One deployable API with a few separate
+services around it. For a single maintainer that was the cheaper correct answer, and I can explain where
 I'd split it if the team grew.
 
-### NerioPanel — multi-tenant white-label platform
+### NerioPanel
+
+Multi-tenant white-label platform.
 
 Resellers host branded panels on their own domains from a shared database with row-level
 security. Custom DNS orchestration over PowerDNS and Nginx handles automatic SSL and routing,
@@ -55,8 +59,8 @@ and the React frontend injects tenant branding at runtime from the request host.
 
 ### [huawei-matebook-m1080-linux-audio](https://github.com/azorkai/huawei-matebook-m1080-linux-audio)
 
-Kernel patches that bring up speaker output on the Huawei MateBook HVY-WXX9 — AMD Renoir with an
-ES8316 codec that the mainline driver does not wire correctly. DKMS packaged, GPL-2.0.
+Kernel patches that bring up speaker output on the Huawei MateBook HVY-WXX9 (AMD Renoir with an
+ES8316 codec the mainline driver does not wire correctly). DKMS packaged, GPL-2.0.
 
 ---
 
