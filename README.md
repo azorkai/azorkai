@@ -23,7 +23,7 @@ have to stay fast under real load.
 
 ### Pinlyx
 
-[crmsolid.com](https://pinlyx.com)
+[pinlyx.com](https://pinlyx.com)
 
 Omnichannel CRM and outreach platform. Sole developer.
 
