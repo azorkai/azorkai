@@ -21,9 +21,9 @@ have to stay fast under real load.
 
 ## Selected work
 
-### CRMSolid
+### Pinlyx
 
-[crmsolid.com](https://crmsolid.com)
+[crmsolid.com](https://pinlyx.com)
 
 Omnichannel CRM and outreach platform. Sole developer.
 
